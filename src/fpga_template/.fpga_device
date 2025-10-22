@@ -1,0 +1,5 @@
+# Auto-generated FPGA device selection
+# Generated: Wed Oct 22 07:00:53 PM CEST 2025
+# Device: JTAG Debugger
+FPGA_SERIAL=FactoryAIOT Pro
+FPGA_BOARD=tangnano9k
